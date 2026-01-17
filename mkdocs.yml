@@ -1,10 +1,34 @@
-site_name: Test docs
-site_description: 'A docs test'
-site_author: 'Michael Hausenblas'
-docs_dir: docs/
-repo_name: 'mhausenblas/mkdocs-template'
-repo_url: 'https://github.com/mhausenblas/mkdocs-template'
-nav:
-    - Home: index.md
+site_name: ls的大物实验报告分享
+site_url: https://rubisco-l.github.io/你的仓库名/  # 记得改成你的实际网址
+
 theme:
-  name: 'material'
+  name: material
+  language: zh  # 中文界面
+  palette:
+    # 自动切换深色/浅色模式
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: 切换到深色模式
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: 切换到浅色模式
+  features:
+    - navigation.tabs  # 顶部导航栏
+    - search.suggest   # 搜索建议
+    - search.highlight # 搜索高亮
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
