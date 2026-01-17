@@ -1,40 +1,29 @@
-## Sample
+# ls的大物实验报告分享
 
-One more, finally. Or not? :)
+[非平衡电桥](非平衡电桥.pdf)
 
-Now:
+[惠斯登电桥](惠斯登电桥.pdf)
 
-```
-$ some 
-```
+[双臂电桥测低电阻](双臂电桥测低电阻.pdf)
 
-Look what she said:
+[弗兰克赫兹实验](弗兰克赫兹实验.pdf)
 
-> This is it!
+[铁磁材料居里温度测量](铁磁材料居里温度测量.pdf)
 
-### Subtitle
+[万用表的设计](万用表的设计.pdf)
 
-And now this:
+[声速的测定](声速的测定.pdf)
 
-- One
-- Two
-- Three
+[光速测量](光速测量.pdf)
 
+[金属材料杨氏模量测量](金属材料杨氏模量测量.pdf)
 
-#### As well
+[等厚干涉](等厚干涉.pdf)
 
-#### As this
+[示波器的使用](示波器的使用.pdf)
 
-### Another
+[光的衍射](光的衍射.pdf)
 
-[a link](https://aws.com)
+[分光计的调整和使用](分光计的调整和使用.pdf)
 
-More?
-
-
-Can we now have `the build`?
-
-NOW!
-
-
-Not gonna work, is it?
+[碰撞实验](碰撞实验.pdf)
