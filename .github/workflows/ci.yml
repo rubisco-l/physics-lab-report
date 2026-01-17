@@ -2,7 +2,7 @@ name: ci
 on:
   push:
     branches:
-      - main
+      - master  # 这里改成了 master
 permissions:
   contents: write
 jobs:
